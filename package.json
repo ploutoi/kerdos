@@ -6,9 +6,11 @@
     "build": "webpack"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-core": "latest",
     "babel-loader": "latest",
     "babel-preset-env": "latest",
+    "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "latest",
     "babel-preset-stage-2": "latest",
     "css-loader": "latest",
@@ -23,6 +25,7 @@
     "eslint-plugin-standard": "latest",
     "extract-text-webpack-plugin": "latest",
     "file-loader": "latest",
+    "flow-bin": "^0.56.0",
     "font-awesome": "latest",
     "node-sass": "latest",
     "sass-loader": "latest",
